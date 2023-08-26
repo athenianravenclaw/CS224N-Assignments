@@ -1,6 +1,6 @@
-# CS244N-Assignments
+# CS224N-Assignments
 
-##### This repo contains my attempts of the programming assignments of CS244N: Natural Language Processing with Deep Learning 
+##### This repo contains my attempts of the programming assignments of CS224N: Natural Language Processing with Deep Learning 
 ###### 1. a1: Exploring Word Vectors
 ###### 2. a2: Word2Vec
 ###### 3. a3: Dependency Parsing
